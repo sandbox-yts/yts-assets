@@ -1,0 +1,2 @@
+# ads.txt file for yts-movies.com
+# Please paste your Ad Network lines here (e.g. google.com, pub-123456, DIRECT, f08c47fec0942fa0)
